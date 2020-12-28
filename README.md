@@ -8,4 +8,4 @@ PyTorch Cookbook（常用代码段整理合集）
 4. https://pytorch.apachecn.org/docs/1.0/
 5. https://tensorflow.google.cn/tutorials/quickstart/beginner
 6. https://www.bookstack.cn/read/Spark-ZH/quick-start-README.md   
-
+7. http://spark.apachecn.org/#/
